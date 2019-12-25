@@ -1,0 +1,6 @@
+-r base.txt
+
+isort
+coverage
+flake8
+tox

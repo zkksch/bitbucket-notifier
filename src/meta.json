@@ -1,0 +1,6 @@
+{
+  "name": "bitbucket-notifier",
+  "description": "Small RESTful application to handle bitbucket pull request notifications",
+  "version": "0.1.0",
+  "author": "zkksch"
+}
